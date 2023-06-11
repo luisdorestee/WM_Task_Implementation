@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Oct 12 22:25:56 2016
 @author: João Barbosa, Luis Doreste and Rebeca Martinez
 """
 

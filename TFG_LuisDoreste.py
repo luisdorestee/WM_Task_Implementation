@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Oct 12 22:25:56 2016
-@author: João Barbosa, Rebeca Martinez and Luis Doreste
+@author: João Barbosa, Luis Doreste and Rebeca Martinez
 """
 
 # BEFORE RUNNING CODE (done in MAC):
